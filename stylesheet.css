@@ -190,8 +190,6 @@ header {
 }
 
 footer {
-  height: 120px;
-  width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
   position :fixed;
 }
