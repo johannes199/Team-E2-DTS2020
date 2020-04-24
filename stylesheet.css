@@ -188,11 +188,6 @@ header {
   top: 7px;
   box-shadow: none;
 }
-
-footer {
-  background-color: rgba(34, 49, 52, 0.9);
-  position :fixed;
-}
 footer img {
   width: 125px;
   Position : relative;
