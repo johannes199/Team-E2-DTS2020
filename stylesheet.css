@@ -191,12 +191,13 @@ header {
 
 footer img {
   width: 125px;
-  Position : center;
+  Position : relative;
 }
 
 footer p {
   color: #b3aeb5;
   font-size: 12px;
+  
 }
 
 footer {
