@@ -188,6 +188,11 @@ header {
   top: 7px;
   box-shadow: none;
 }
+
+.footer {
+  background-color : #ceccf3;
+  height : 350px;
+}
 footer img {
   width: 125px;
 }
