@@ -195,9 +195,12 @@ header {
 }
 footer img {
   width: 125px;
+  float : center;
+  font-size : 24px;
 }
 
 footer p {
   color: #b3aeb5;
   font-size: 12px;
+  float : center;
 }
