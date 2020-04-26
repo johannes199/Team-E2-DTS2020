@@ -192,6 +192,7 @@ header {
 
 a {
   text-decoration: none;
+  outline: none;
 }
 .footer-main-div {
   width: 100%;
@@ -234,7 +235,7 @@ a {
   width: 100%;
   height: auto;
   margin: auto;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 .footer-menu ul {
   margin: 0px;
@@ -243,11 +244,11 @@ a {
 }
 .footer-menu ul li{
   display: inline-block;
-  margin: 0px 20px;
+  margin: 0px 15px;
 }
 .footer-menu ul li a{
   font-family: "arial";
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 600;
   color: #fff;
   text-transform: uppercase;
