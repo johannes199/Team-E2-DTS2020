@@ -251,18 +251,30 @@ a {
   font-size: 15px;
   font-weight: 600;
   color: #fff;
+  letter-spacing: 1px;
   text-transform: uppercase;
+}
+.footer-menu ul li a:hover {
+  color:,#32CD32;
 }
 .footer-bottom {
   width: 100%;
   height: auto;
   margin: auto;
   background: #32CD32;
-  padding: 5px;
+  padding: 10px;
 }
 .footer-bottom p{
   font-family: "arial";
   font-size: 14px;
   text-align: center;
   color: #fff;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+.footer-bottom p a{
+  color: #fff;
+}
+.footer-bottom p a:hover {
+  color: #272727;
 }
