@@ -223,10 +223,10 @@ a {
   font-size: 25px;
   display: block;
 } 
-.footer-social-icon ul li a i{
+.footer-social-icons ul li a i{
   line-height: 50px;
 }
-.footer-social-icon ul li:hover{
+.footer-social-icons ul li:hover{
   background: #ff0000;
 }
 
