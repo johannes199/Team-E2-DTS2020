@@ -226,6 +226,10 @@ a {
 .footer-social-icon ul li a i{
   line-height: 50px;
 }
+.footer-social-icon ul li:hover{
+  background: #ff0000;
+}
+
 .footer-menu {
   width: 100%;
   height: auto;
@@ -247,4 +251,17 @@ a {
   font-weight: 600;
   color: #fff;
   text-transform: uppercase;
+}
+.footer-bottom {
+  width: 100%;
+  height: auto;
+  margin: auto;
+  background: #32CD32;
+  padding: 5px;
+}
+.footer-bottom p{
+  font-family: "arial";
+  font-size: 14px;
+  text-align: center;
+  color: #fff;
 }
