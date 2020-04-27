@@ -133,16 +133,15 @@ header {
 }
 
 .extra-wrapper h2 {
-    border-bottom:2px solid black;
-    text-align:center;
-    font-size:20px;
-    padding-bottom:20px;
+  opacity: 0.7;
+  font-size: 36px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
 }
 
 .extra-wrapper  h2 p {
-   text-align:center;
-   font-size:15px; 
-   margin-bottom:20px;
+  opacity: 0.7;
+  margin-bottom: 3px;
 }
 .lesson-wrapper {
   padding-bottom: 80px;
