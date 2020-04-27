@@ -128,23 +128,22 @@ header {
   width: 100%;
   height: auto;
   margin: auto;
-  background: #808080;
-  padding: 10px;
+  padding: auto;
   background-color: #808080;
-  text-align: center;
 }
 
 .extra-wrapper h2 {
-  opacity: 0.7;
   font-size: 36px;
   letter-spacing: 5px;
   margin-bottom: 10px;
+  text-align: center;
 }
 
 .extra-wrapper  h2 p {
   opacity: 0.7;
-  margin-bottom: 3px;
+  margin-bottom:auto;
   font-size: 23px;
+  text-align: center;
 }
 .lesson-wrapper {
   padding-bottom: 80px;
