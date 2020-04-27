@@ -1,4 +1,6 @@
 * {
+  margin: 0px;
+  padding: 0px;
   box-sizing: border-box;
 }
 
@@ -208,6 +210,7 @@ a {
 } 
 .footer-logo {
   float: center;
+  dispaly: block;
 }
 .footer-social-icons ul {
   margin: 0px;
