@@ -124,21 +124,21 @@ header {
   padding: 21px 0;
   display: none;
 }
-.extra1 {
+.extra-wrapper {
     background-color: "gainsboro";
     color:#808080;
     padding:50px;
     align-items: center;
 }
 
-.extra1 h2 {
+.extra-wrapper h2 {
     border-bottom:2px solid black;
     text-align:center;
     font-size:20px;
     padding-bottom:20px;
 }
 
-.extra1  h2 p{
+.extra-wrapper  h2 p {
    text-align:center;
    font-size:15px; 
    margin-bottom:20px;
