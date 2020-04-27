@@ -125,10 +125,11 @@ header {
   display: none;
 }
 .extra-wrapper {
-    background-color: "gainsboro";
-    color:#808080;
-    padding:50px;
-    align-items: center;
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #808080;
+  text-align: center;
 }
 
 .extra-wrapper h2 {
