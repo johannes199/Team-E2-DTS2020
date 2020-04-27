@@ -206,7 +206,7 @@ a {
   height: auto;
   margin: auto;
 } 
-.marquee {
+.footer-social-icons marquee {
   font-color: #1a7940;
   font-size: 12px;
   letter-spacing: 1px;
