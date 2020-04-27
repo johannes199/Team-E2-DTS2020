@@ -262,9 +262,7 @@ a {
   height: auto;
   margin: auto;
   background: #32CD32;
-  padding: 20px;
-  padding-bottom: 0px;
-  padding-top: 10px;
+  padding: 10px;
 }
 .footer-bottom p{
   font-family: "arial";
