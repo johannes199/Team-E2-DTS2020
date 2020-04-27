@@ -280,7 +280,7 @@ header {
   height: auto;
   margin: auto;
   background: #32CD32;
-  padding: 0px;
+  padding: auto;
 }
 .footer-bottom p{
   font-family: "arial";
