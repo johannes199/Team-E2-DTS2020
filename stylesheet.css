@@ -206,6 +206,11 @@ a {
   height: auto;
   margin: auto;
 } 
+marquee {
+  font-color: red;
+  font-size: 12px;
+  letter-spacing: 1px;
+}
 .footer-social-icons ul {
   margin: 0px;
   padding: 0px;
