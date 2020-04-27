@@ -206,8 +206,8 @@ a {
   height: auto;
   margin: auto;
 } 
-marquee {
-  font-color: red;
+.marquee {
+  font-color: #1a7940;
   font-size: 12px;
   letter-spacing: 1px;
 }
