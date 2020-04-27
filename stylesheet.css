@@ -9,6 +9,7 @@ body {
 
 a {
   text-decoration: none;
+  outline: none;
 }
 
 .clear {
@@ -123,7 +124,39 @@ header {
   padding: 21px 0;
   display: none;
 }
+.extra1 {
 
+    background-color:gainsboro;
+
+    color:gray;
+
+    padding:50px;
+
+    align-items: center;
+
+}
+
+.extra1 h3 {
+
+    border-bottom:2px solid black;
+
+    text-align:center;
+
+    font-size:20px;
+
+    padding-bottom:20px;
+
+}
+
+.extra1 p {
+
+   text-align:center;
+
+   font-size:15px; 
+
+   margin-bottom:20px;
+
+}
 .lesson-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
@@ -187,12 +220,6 @@ header {
   position: relative;
   top: 7px;
   box-shadow: none;
-}
-
-
-a {
-  text-decoration: none;
-  outline: none;
 }
 .footer-main-div {
   width: 100%;
