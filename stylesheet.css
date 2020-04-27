@@ -125,37 +125,23 @@ header {
   display: none;
 }
 .extra1 {
-
     background-color:gainsboro;
-
     color:gray;
-
     padding:50px;
-
     align-items: center;
-
 }
 
-.extra1 h3 {
-
+.extra1 h2 {
     border-bottom:2px solid black;
-
     text-align:center;
-
     font-size:20px;
-
     padding-bottom:20px;
-
 }
 
-.extra1 p {
-
-   text-align:center;
-
+.extra1  h2 p{
+   text-align:center;
    font-size:15px; 
-
    margin-bottom:20px;
-
 }
 .lesson-wrapper {
   padding-bottom: 80px;
@@ -171,7 +157,7 @@ header {
   color: #5f5d60;
 }
 
-.heading h2 {
+.heading h3 {
   font-weight: normal;
 }
 
@@ -199,7 +185,7 @@ header {
   color: #b3aeb5;
 }
 
-.heading h3 {
+.heading h4 {
   font-weight: normal;
 }
 
